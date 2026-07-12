@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v2.1.0/TelegramMT5Copier_Setup_2.1.0.exe",
-  "sha256": "3E4ECA885F199E4F676A61F22A40C2D50C7C23DC944FEAB7B711E8430A9B03D9",
-  "notes_hu": "Biztonságos iPhone/PWA távoli vezérlés Tailscale kapcsolaton, eszközpárosítással és jogosultságkezeléssel."
+  "version": "3.1.0",
+  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v3.1.0/TelegramMT5Copier_Setup_3.1.0.exe",
+  "sha256": "5B7D230460A611D3D152D56FE59A074753DA939F6674630544EBD429CA88EF0A",
+  "notes_hu": "Prémium grafitszürke–lila kezelőfelület, oldalsó navigáció, teljes témaszerkesztő, testreszabható alkalmazásikon és párosításmentes távoli vezérlési oldal."
 }
