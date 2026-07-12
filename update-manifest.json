@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v2.0.1/TelegramMT5Copier_Setup_2.0.1.exe",
-  "sha256": "05A793581D49F9B305E089A69CB70E98FF68C20C30B7E281E488B33BA5CA2D99",
-  "notes_hu": "Sötétszürke sötét mód és biztonságos alkalmazáson belüli frissítés."
+  "version": "2.1.0",
+  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v2.1.0/TelegramMT5Copier_Setup_2.1.0.exe",
+  "sha256": "3E4ECA885F199E4F676A61F22A40C2D50C7C23DC944FEAB7B711E8430A9B03D9",
+  "notes_hu": "Biztonságos iPhone/PWA távoli vezérlés Tailscale kapcsolaton, eszközpárosítással és jogosultságkezeléssel."
 }
