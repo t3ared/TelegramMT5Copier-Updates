@@ -1,6 +1,6 @@
 {
-  "version": "3.1.2",
-  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v3.1.2/TelegramMT5Copier_Setup_3.1.2.exe",
-  "sha256": "0A31980350F8B6E0ACDF75BAA9D681193D393406135D42976EEF29A2E7B3ADB7",
-  "notes_hu": "Új, témakövető Windows-címsor verziójelvénnyel és modern ablakgombokkal. Az ablak továbbra is húzható, dupla kattintással maximalizálható, valamint a szélein és sarkain átméretezhető."
+  "version": "3.1.3",
+  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v3.1.3/TelegramMT5Copier_Setup_3.1.3.exe",
+  "sha256": "E6A5AFBAA039D57E7CA2C6C43EC9B88E776165634F9A86AEA340B46E013EA50A",
+  "notes_hu": "Gyorsjavítás az új Windows-címsor indítási hibájára. Az eseményszűrő már rekurziómentes, a telepítő pedig az új alkalmazásikonnal újralétrehozza az asztali és Start menüs parancsikont, majd frissíti a Windows ikon-gyorsítótárát."
 }
