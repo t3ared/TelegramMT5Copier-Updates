@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v3.1.0/TelegramMT5Copier_Setup_3.1.0.exe",
-  "sha256": "5B7D230460A611D3D152D56FE59A074753DA939F6674630544EBD429CA88EF0A",
-  "notes_hu": "Prémium grafitszürke–lila kezelőfelület, oldalsó navigáció, teljes témaszerkesztő, testreszabható alkalmazásikon és párosításmentes távoli vezérlési oldal."
+  "version": "3.1.1",
+  "download_url": "https://github.com/t3ared/TelegramMT5Copier-Updates/releases/download/v3.1.1/TelegramMT5Copier_Setup_3.1.1.exe",
+  "sha256": "4E7B0A4A8DE805FC028511B6ACD6916296E4509667FA6AEAC469067B017D433B",
+  "notes_hu": "Kizárólag helyi Windows-kiadás: a külső vezérlési kód teljesen eltávolítva. Valós MT5-számla külön biztonsági megerősítéssel engedélyezhető, a lenyíló menük pedig világos, sötét és egyedi témákban is nagy kontrasztúak."
 }
